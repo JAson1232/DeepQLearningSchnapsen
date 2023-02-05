@@ -1,0 +1,17 @@
+Games: {<class 'src.schnapsen.bots.Bully.BullyBot'>: 71, <class 'src.schnapsen.bots.DeepQAgent.DQNAgent'>: 30}
+Training Moves: 0
+NN Moves: 604
+Number of Marriages: 37
+Number of Exchanges: 0
+Possible Marriages: 38
+Possible Exchanges: 37
+Predicted Marriages: 38
+Predicted Exchanges: 37
+Learning Rate: 0.001
+Epsilon: 0
+Epsilon Decay: 0.995
+Epsilon Min: 0.01
+Gamma: 0.995
+Batch Size: 32
+Neuron 1st Layer: 5
+Neuron 2nd Layer: 5

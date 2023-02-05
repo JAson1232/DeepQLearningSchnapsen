@@ -1,0 +1,17 @@
+Games: {<class '__main__.RandBot'>: 55, <class 'src.schnapsen.bots.DeepQAgent.DQNAgent'>: 46}
+Training Moves: 0
+NN Moves: 633
+Number of Marriages: 48
+Number of Exchanges: 0
+Possible Marriages: 48
+Possible Exchanges: 51
+Predicted Marriages: 48
+Predicted Exchanges: 51
+Learning Rate: 0.001
+Epsilon: 0
+Epsilon Decay: 0.995
+Epsilon Min: 0.01
+Gamma: 0.995
+Batch Size: 32
+Neuron 1st Layer: 5
+Neuron 2nd Layer: 5

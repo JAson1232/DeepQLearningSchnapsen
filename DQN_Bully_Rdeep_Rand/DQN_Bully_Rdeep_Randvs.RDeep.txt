@@ -1,0 +1,17 @@
+Games: {<class 'src.schnapsen.bots.rdeep.RdeepBot'>: 90, <class 'src.schnapsen.bots.DeepQAgent.DQNAgent'>: 11}
+Training Moves: 0
+NN Moves: 566
+Number of Marriages: 32
+Number of Exchanges: 0
+Possible Marriages: 33
+Possible Exchanges: 34
+Predicted Marriages: 33
+Predicted Exchanges: 34
+Learning Rate: 0.001
+Epsilon: 0
+Epsilon Decay: 0.995
+Epsilon Min: 0.01
+Gamma: 0.995
+Batch Size: 32
+Neuron 1st Layer: 5
+Neuron 2nd Layer: 5
